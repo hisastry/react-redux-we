@@ -58,3 +58,9 @@ function hello() {
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+### Table 
+Column 1 | Column 2
+-------- | --------
+Content 1 | Content 2
+Content 3 | Content 4
