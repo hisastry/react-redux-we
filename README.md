@@ -45,5 +45,7 @@ function hello() {
   console.out('Hello!!!!');
 }
 ```  
-
+    function hello() {
+      console.log('hello');
+    }
   
