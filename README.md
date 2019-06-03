@@ -48,4 +48,7 @@ function hello() {
     function hello() {
       console.log('hello');
     }
+
+### Image reference 
+![GIT LOGO](https://github.com/Giphy/GiphyAPI/blob/master/api_giphy_header.gif?raw=true)
   
