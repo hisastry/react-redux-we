@@ -52,3 +52,9 @@ function hello() {
 ### Image reference 
 ![GIT LOGO](https://github.com/Giphy/GiphyAPI/blob/master/api_giphy_header.gif?raw=true)
   
+
+### Task list
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
